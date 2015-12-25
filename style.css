@@ -17,7 +17,7 @@ table {
 
 .board,td,tr {
 
-        border-radius:5px;
+        border-radius:1px;
 }
 
 tr {
@@ -42,7 +42,7 @@ td {
 
 #score,#x,#y {
         text-align:center;
-        font-size:45px ;
+        font-size:30px ;
 }
 
 .lessdist {

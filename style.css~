@@ -17,7 +17,7 @@ table {
 
 .board,td,tr {
 
-        border-radius:5px;
+        border-radius:1px;
 }
 
 tr {
@@ -46,7 +46,7 @@ td {
 }
 
 .lessdist {
-        opacity:0.75;
+        opacity:0.6;
 }
 
 .color0 {
