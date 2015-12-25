@@ -1,0 +1,22 @@
+<html>
+<head>
+<script src = "jquery-1.11.3.min.js"></script>
+<script src = "laby.js"></script>
+<link rel = "stylesheet" type = "text/css" href = "style.css"></link>
+</head>
+<body>
+
+<div class = "shroud"></div>
+<div class = "board"></div>
+<div class = "panel">
+<table align = "center">
+<tr> <td id = "lu" class = "control"></td><td id = "up" class = "control"></img></td><td id = "ru" class = "control"></td></tr>
+<tr><td id = "left" bgcolor = "black"></td><td id = "score" class = "control2"></td><td id = "right" class = "control"></td></tr>
+<tr><td id = "ld" class = "control"></td><td id = "down" class = "control"></td><td id = "rd" class = "control"></td></tr>
+</table>
+
+
+</table>
+</div>
+</body>
+</html>

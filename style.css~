@@ -1,0 +1,70 @@
+.shroud {
+        background-color:black;
+        opacity: 1;
+        height:0%;
+        width: 100%;
+}
+
+table {
+        width: 100%;
+        height: 100%;
+}
+
+.panel {
+        width: 100%;
+        height: 40%;
+}
+
+.board,td,tr {
+
+        border-radius:5px;
+}
+
+tr {
+        height: 9%;
+        width: 9%;
+}
+
+.board {
+        height: 60%;
+        width: 100%
+}
+
+td {
+        width:9%;
+}
+
+.player {
+        border-radius:40px;
+        border-width: 50px;
+        
+}
+
+#score,#x,#y {
+        text-align:center;
+        font-size:45px ;
+}
+
+.lessdist {
+        opacity:0.75;
+}
+
+.color0 {
+        background-color: red;
+}
+.color1 {
+        background-color: green;
+}
+.color2 {
+        background-color: blue;
+}
+.color3 {
+        background-color: black;
+}
+
+.control {
+        background-color : black;
+}
+.control2 {
+        background-color: #6666ff;
+}
